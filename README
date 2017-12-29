@@ -1,5 +1,22 @@
-1) + or add
-2) copy repo
-3) sign in with e.g. your github account
-4) open the repo in pythonista via ...
-5) 
+Clone / Push:
+1) + or Create
+2) Clone repository
+3) Github => Sign in => Choose the repo => Clone
+4) Share Symbol => Run Pythonista Script => Import File (whole repo)
+5) Open the repo folder and edit your file(s) in pythonista
+6) Go back to the folder view => Edit => Select folder => Share => Save in Working Copy (enable it via more) => Import as Repository
+7) Open Working Copy and first go to settings => SSH Keys => Generate Key => Connect with Github
+8) Open your repo => Commit changes => select your file or all => short summary => Commit
+
+Initialize repository:
+1) + => Initialize repository
+2) Repository Name => Create
+3) Add Remote
+4) Create Repository
+5) Github => Public => Confirm Create
+6) Create/Import files
+7) Commit changes => select your file or all => short summary => Commit
+
+Remove repository from your device:
+1) Open the repo folder
+2) Delete from iPxxx
