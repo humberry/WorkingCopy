@@ -3,7 +3,7 @@ Clone / Push:
 2) Clone repository
 3) Github => Sign in => Choose the repo => Clone
 4) Share Symbol => Run Pythonista Script => Import File (whole repo)
-5) Open the repo folder and edit your file(s) in pythonista
+5) In Pythonista open the repo folder and edit your file(s)
 6) Go back to the folder view => Edit => Select folder => Share => Save in Working Copy (enable it via more) => Import as Repository
 7) Open Working Copy and first go to settings => SSH Keys => Generate Key => Connect with Github
 8) Open your repo => Commit changes => select your file or all => short summary => Commit
