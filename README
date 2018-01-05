@@ -1,12 +1,18 @@
-Clone / Push:
-1) + or Create
-2) Clone repository
-3) Github => (First time: Sign in) => Choose the repo => Clone
-4) Share Symbol => Run Pythonista Script => Import File (whole repo)
-5) In Pythonista open the repo folder and edit your file(s)
-6) Go back to the folder view => Edit => Select folder => Share => Save in Working Copy (enable it via more) => Import as Repository
-7) (First time: Open Working Copy and go to settings => SSH Keys => Generate Key => Connect with Github)
-8) Open your repo in Working Copy => Commit changes => select your file or all => short summary => Commit
+Github, Pythonista 3.2, Working Copy 3.2.2, iOS 11.2.1
+
+Settings:
+1) Settings => Identities => + => Name and Email (...@user.noreply.github.com)
+2) SSH Keys => + => Generate Key => Connect with GitHub
+
+Clone:
+1) + => Clone repository => Choose one of your repos or Enter URL (git@github.com:user/repo.git) => Clone
+
+Edit repo in Pythonista:
+1) Open Pythonista => + => Import => Files => Working Copy (first time => search => enable) => Select Folder => Open
+
+Push repo:
+1) Edit => Selcet Folder in Pythonista => Open In => Save in Working Copy (first time => enable it) => Save as directory => Choose your repo
+2) Open Working Copy => Open repo => Commit changes => select your file or all => short summary => Commit
 
 Initialize repository:
 1) + => Initialize repository
@@ -20,3 +26,4 @@ Initialize repository:
 Remove repository from your device:
 1) Open the repo folder
 2) Delete from iPxxx
+=> repo still exists at Github
