@@ -8,10 +8,14 @@ Clone:
 1) + => Clone repository => Choose one of your repos or Enter URL (git@github.com:user/repo.git) => Clone
 
 Edit repo in Pythonista:
-1) Open Pythonista => + => Import => Files => Working Copy (first time => search => enable) => Select Folder => Open
+1a) Open Pythonista => + => Import => Files => Working Copy (first time => search => enable) => Select Folder => Open (Copy repo to Pythonista)
+OR
+1b) Open Pythonista => External Files => Open... => Working Copy (first time => search => enable) => Select Folder => Open (Link repo)
 
 Push repo:
-1) Edit => Selcet Folder in Pythonista => Open In => Save in Working Copy (first time => enable it) => Save as directory => Choose your repo
+1a) Edit => Selcet Folder in Pythonista => Open In => Save in Working Copy (first time => enable it) => Save as directory => Choose your repo
+OR
+1b) Edit your repo via Pythonista in your Working Copy folder
 2) Open Working Copy => Open repo => Commit changes => select your file or all => short summary => Commit
 
 Initialize repository:
